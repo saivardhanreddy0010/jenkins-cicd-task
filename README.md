@@ -24,3 +24,4 @@ jenkins-cicd-task/
 ├── Dockerfile
 ├── Jenkinsfile
 └── README.md
+Jenkins automatic CI/CD trigger tested successfully.
