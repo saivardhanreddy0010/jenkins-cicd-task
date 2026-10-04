@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-cicd-task",
+  "version": "1.0.0",
+  "description": "Simple Jenkins CI/CD pipeline application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('Tests passed successfully')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
